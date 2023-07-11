@@ -100,11 +100,8 @@
 <br>
 
 ---
-## 프로젝트 정리 페이지
+## 📋 프로젝트 정리 페이지
 https://www.notion.so/Knock-Knock-4836ba20a03a464aae09bbdc26497fb7
-
-
-## 📋 API 명세서
 
 
 
