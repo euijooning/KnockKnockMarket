@@ -103,6 +103,9 @@
 ## 📋 프로젝트 정리 페이지
 https://www.notion.so/Knock-Knock-4836ba20a03a464aae09bbdc26497fb7
 
+---
+## ⏺️ 시연 영상
+https://www.youtube.com/watch?v=lZRnoeVz3vY
 
 
 
