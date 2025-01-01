@@ -6,8 +6,8 @@
 
 <p style="text-align: center">
 <span style="font-size: 20px; font-weight: bold;">내가 필요한 물건을 판매하는 이웃에게 knock, knock!</span><br><br>
-내게 필요한 물품을 이웃에게, 이웃이 필요한 물품을 내가 직접 이웃과 채팅으로 이야기 하며<br>
-안전한 직거래 방식으로 거래 할 수 있는 웹 사이트 입니다.<br>
+내가 필요한 물품을 이웃에게, 이웃이 필요한 물품을 내가 직접 이웃과 채팅으로 이야기하며<br>
+안전한 직거래 방식으로 거래할 수 있는 웹 사이트 입니다.<br>
 </p>
 <br>
 
@@ -100,9 +100,14 @@
 <br>
 
 ---
+
 ## 📋 프로젝트 정리 페이지
 https://www.notion.so/Knock-Knock-4836ba20a03a464aae09bbdc26497fb7
+<br>
 
+---
 
+## 🎥 시연 영상
+📺 https://youtu.be/fbm4jPVNtts
 
 
